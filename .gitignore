@@ -124,3 +124,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 dataset/
+
+.vscode/
+.DS_Store

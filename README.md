@@ -46,3 +46,7 @@ You can load the saved model weights from `puyo-classifier.pt`.
 </div>
 
 The CNN makes the wrong prediction about the Purple Human Puyo, Purple MSX Puyo, and Shadow (he's supposed to replace a Green Puyo).
+
+## Future Notes
+* MSX, Degi, GameGear, and Human have different Red X's
+* Need to boost Sonic, MSX, and Human colored Puyos to help purple/green get classified better.
